@@ -9,8 +9,8 @@
             "server": "localhost",
             "port": 33060,
             "driver": "MySQL",
-            "name": "Test",
-            "database": "demo",
+            "name": "Local",
+            "database": "alx_book_store",
             "username": "root",
             "password": "2371994Al#",
             "connectionTimeout": 30
