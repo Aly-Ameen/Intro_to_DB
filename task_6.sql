@@ -1,3 +1,4 @@
+-- ["INSERT INTO customer", "124 Happiness  Ave."]
 -- Insert multiple rows into the Customers table
 INSERT INTO Customers (customer_id, customer_name, email, address)
 VALUES 
