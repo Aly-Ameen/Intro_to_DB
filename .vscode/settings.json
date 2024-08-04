@@ -9,11 +9,11 @@
             "server": "localhost",
             "port": 33060,
             "driver": "MySQL",
-            "name": "Test ",
+            "name": "Test",
             "database": "demo",
-            "connectionTimeout": 30,
             "username": "root",
-            "password": "2371994Al#"
+            "password": "2371994Al#",
+            "connectionTimeout": 30
         }
     ]
 }
